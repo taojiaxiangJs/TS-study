@@ -1,1 +1,3 @@
-let hello:string = 'Hello TypeScript'
+import { base } from './base/base.index'
+
+base()
